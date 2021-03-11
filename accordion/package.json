@@ -1,0 +1,22 @@
+{
+  "name": "accordeon",
+  "version": "1.0.0",
+  "description": "simple accordion training",
+  "main": "app.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/main_style.scss:./style/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikingsurfeur/accordeon.git"
+  },
+  "keywords": [
+    "accordion"
+  ],
+  "author": "David Bouscarle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikingsurfeur/accordeon/issues"
+  },
+  "homepage": "https://github.com/vikingsurfeur/accordeon#readme"
+}
